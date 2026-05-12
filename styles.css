@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(21, 25, 39);
     color: aliceblue;
 }
 
@@ -32,24 +32,28 @@ code {
     background-color: rgb(155, 34, 90);
     padding: 35px;
     margin: 10px;
+    border-radius: 20px;
 }
 
 #contacto {
     background-color: rgb(66, 34, 155);
     padding: 35px;
-    margin: 10px;    
+    margin: 10px;
+    border-radius: 20px;    
 }
 
 #clases {
     background-color: rgb(34, 155, 155);
     padding: 35px;
     margin: 10px;
+    border-radius: 20px;
 }
 
 #tour {
     background-color: rgb(34, 121, 155);
     padding: 35px;
     margin: 10px;
+    border-radius: 20px;
 }
 
 a {
