@@ -1,0 +1,84 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    margin: 20px;
+    text-align: center;
+}
+
+#bienvenida {
+    color: aquamarine;
+    margin: 20px;
+}
+
+a {
+    margin: 2px;
+}
+
+code {
+    padding-top: 150px;
+    color: gray;
+}
+
+#arte {
+    background-color: rgb(155, 34, 90);
+    padding: 35px;
+    margin: 10px;
+}
+
+#contacto {
+    background-color: rgb(66, 34, 155);
+    padding: 35px;
+    margin: 10px;    
+}
+
+#clases {
+    background-color: rgb(34, 155, 155);
+    padding: 35px;
+    margin: 10px;
+}
+
+#tour {
+    background-color: rgb(34, 121, 155);
+    padding: 35px;
+    margin: 10px;
+}
+
+a {
+    margin: 1%;
+}
+
+#facebook {
+    background-color: rgb(0, 153, 255);
+    color: rgb(255, 255, 255);
+    padding-left: 26%;
+    padding-right: 26%;
+    background-size: auto;
+}
+#instagram {
+    background-color: rgb(219, 81, 253);
+    color: aliceblue;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+#tiktok {
+    background-color: rgb(98, 60, 185);
+    color: aliceblue;
+    border-color: aquamarine;
+    padding-left: 27%;
+    padding-right: 27%;
+}
+#whatsapp {
+    background-color: rgb(50, 209, 156);
+    color: aliceblue;
+    padding-left: 25%;
+    padding-right: 25%;
+}
