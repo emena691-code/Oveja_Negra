@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(21, 25, 39);
+    background-image: url("bg_01.jpg");
+    background-size:cover;
     color: aliceblue;
 }
 
@@ -35,7 +36,8 @@ code {
     border-radius: 20px;
 }
 #arte:hover {
-    background-image: url("");
+    background-image: url("arte.jpg");
+    color: rgb(21, 25, 39);
     transform: scale(1.1);
 }
 /* segundo boton */
@@ -45,12 +47,22 @@ code {
     margin: 10px;
     border-radius: 20px;    
 }
+#contacto:hover {
+    background-image: url("cont.jpg");
+    color: rgb(255, 255, 255);
+    transform: scale(1.1);
+}
 /* tercer boton */
 #clases {
     background-color: rgb(34, 155, 155);
     padding: 35px;
     margin: 10px;
     border-radius: 20px;
+}
+#clases:hover {
+    background-image: url("class.jpg");
+    color: rgb(255, 255, 255);
+    transform: scale(1.1);
 }
 /* cuarto boton */
 #tour {
@@ -59,7 +71,13 @@ code {
     margin: 10px;
     border-radius: 20px;
 }
+#tour:hover {
+    background-image: url("tour.jpg");
+    color: rgb(21, 25, 39);
+    transform: scale(1.1);
+}
 
+/* Otros ajustes */
 a {
     margin: 1%;
 }
