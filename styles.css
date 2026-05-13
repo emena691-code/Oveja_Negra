@@ -27,28 +27,32 @@ code {
     padding-top: 150px;
     color: gray;
 }
-
+/* primer boton */
 #arte {
-    background-color: rgb(155, 34, 90);
+    background-color: rgb(161, 40, 50);
     padding: 35px;
     margin: 10px;
     border-radius: 20px;
 }
-
+#arte:hover {
+    background-image: url("");
+    transform: scale(1.1);
+}
+/* segundo boton */
 #contacto {
     background-color: rgb(66, 34, 155);
     padding: 35px;
     margin: 10px;
     border-radius: 20px;    
 }
-
+/* tercer boton */
 #clases {
     background-color: rgb(34, 155, 155);
     padding: 35px;
     margin: 10px;
     border-radius: 20px;
 }
-
+/* cuarto boton */
 #tour {
     background-color: rgb(34, 121, 155);
     padding: 35px;
